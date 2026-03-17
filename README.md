@@ -7,11 +7,12 @@ SW2000 Series Automotive TSN Switch, SW2000M TSN includes 8 channels of 100/1000
 
 
 # RoboBus/RoboVAN solution:
-<img width="1360" height="734" alt="image" src="https://github.com/user-attachments/assets/f6a93d4f-2887-405e-8adf-f3c56cde7b7d" />
+<img width="1027" height="486" alt="image" src="https://github.com/user-attachments/assets/f0c81964-cc02-484e-8a4d-d5317a6c2ad0" />
 
 
 # RoboTruck/RoboVAN solution:
-<img width="1407" height="630" alt="image" src="https://github.com/user-attachments/assets/10df88a5-064f-4fe5-aba1-217a07fb85b7" />
+<img width="1020" height="444" alt="image" src="https://github.com/user-attachments/assets/982321eb-3c01-48bb-86f0-c793af2a958a" />
+
 
 # Contacts: 
 
