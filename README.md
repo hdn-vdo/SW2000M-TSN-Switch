@@ -7,6 +7,7 @@ SW2000 Series Automotive TSN Switch, SW2000M TSN includes 8 channels of 100/1000
 
 
 # RoboBus/RoboVAN solution:
+Compute Unit: Orin AGX/NX or Nano, SW2000M TSN performed a gPTP bridge, GNSS and Pbox performed the Grandmaster clock. Lidar, Senser, and other Unit, inclulde Orin Comptue Unit as a gPTP Slave. All parts mantain time synchronization at the 100ns level.
 <img width="1027" height="486" alt="image" src="https://github.com/user-attachments/assets/f0c81964-cc02-484e-8a4d-d5317a6c2ad0" />
 
 
